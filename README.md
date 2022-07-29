@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zacharypennington
 - 👀 I’m interested in technology and software, specifically UX design
-- 🌱 I’m currently learning AWS, github,
+- 🌱 I’m currently learning AWS, github, and some other stuff
 - 📫 Reach me at @zachpennington on Twitter
 
 <!---
